@@ -1,3 +1,4 @@
 Change1 - File added in Remote
 Change2 - File changed in remote
 Change3 - File changed in local
+Change4 - File again changed in local
